@@ -1,0 +1,15 @@
+C:\Users\dkumar\Documents\ML Project\MLappML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\dkumar\Documents\ML Project\MLappML.ConsoleApp\bin\Debug\netcoreapp2.1\MLappML.ConsoleApp.deps.json
+C:\Users\dkumar\Documents\ML Project\MLappML.ConsoleApp\bin\Debug\netcoreapp2.1\MLappML.ConsoleApp.runtimeconfig.json
+C:\Users\dkumar\Documents\ML Project\MLappML.ConsoleApp\bin\Debug\netcoreapp2.1\MLappML.ConsoleApp.runtimeconfig.dev.json
+C:\Users\dkumar\Documents\ML Project\MLappML.ConsoleApp\bin\Debug\netcoreapp2.1\MLappML.ConsoleApp.dll
+C:\Users\dkumar\Documents\ML Project\MLappML.ConsoleApp\bin\Debug\netcoreapp2.1\MLappML.ConsoleApp.pdb
+C:\Users\dkumar\Documents\ML Project\MLappML.ConsoleApp\bin\Debug\netcoreapp2.1\MLappML.Model.dll
+C:\Users\dkumar\Documents\ML Project\MLappML.ConsoleApp\bin\Debug\netcoreapp2.1\MLappML.Model.pdb
+C:\Users\dkumar\Documents\ML Project\MLappML.ConsoleApp\obj\Debug\netcoreapp2.1\MLappML.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\dkumar\Documents\ML Project\MLappML.ConsoleApp\obj\Debug\netcoreapp2.1\MLappML.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\dkumar\Documents\ML Project\MLappML.ConsoleApp\obj\Debug\netcoreapp2.1\MLappML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\dkumar\Documents\ML Project\MLappML.ConsoleApp\obj\Debug\netcoreapp2.1\MLappML.ConsoleApp.AssemblyInfo.cs
+C:\Users\dkumar\Documents\ML Project\MLappML.ConsoleApp\obj\Debug\netcoreapp2.1\MLappML.ConsoleApp.csproj.CopyComplete
+C:\Users\dkumar\Documents\ML Project\MLappML.ConsoleApp\obj\Debug\netcoreapp2.1\MLappML.ConsoleApp.dll
+C:\Users\dkumar\Documents\ML Project\MLappML.ConsoleApp\obj\Debug\netcoreapp2.1\MLappML.ConsoleApp.pdb

@@ -1,0 +1,15 @@
+C:\Users\dkumar\Documents\ML Project\MLapp\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\dkumar\Documents\ML Project\MLapp\bin\Debug\netcoreapp2.1\MLapp.deps.json
+C:\Users\dkumar\Documents\ML Project\MLapp\bin\Debug\netcoreapp2.1\MLapp.runtimeconfig.json
+C:\Users\dkumar\Documents\ML Project\MLapp\bin\Debug\netcoreapp2.1\MLapp.runtimeconfig.dev.json
+C:\Users\dkumar\Documents\ML Project\MLapp\bin\Debug\netcoreapp2.1\MLapp.dll
+C:\Users\dkumar\Documents\ML Project\MLapp\bin\Debug\netcoreapp2.1\MLappML.Model.dll
+C:\Users\dkumar\Documents\ML Project\MLapp\bin\Debug\netcoreapp2.1\MLappML.Model.pdb
+C:\Users\dkumar\Documents\ML Project\MLapp\obj\Debug\netcoreapp2.1\MLapp.csprojAssemblyReference.cache
+C:\Users\dkumar\Documents\ML Project\MLapp\obj\Debug\netcoreapp2.1\MLapp.csproj.CoreCompileInputs.cache
+C:\Users\dkumar\Documents\ML Project\MLapp\obj\Debug\netcoreapp2.1\MLapp.AssemblyInfoInputs.cache
+C:\Users\dkumar\Documents\ML Project\MLapp\obj\Debug\netcoreapp2.1\MLapp.AssemblyInfo.cs
+C:\Users\dkumar\Documents\ML Project\MLapp\obj\Debug\netcoreapp2.1\MLapp.csproj.CopyComplete
+C:\Users\dkumar\Documents\ML Project\MLapp\bin\Debug\netcoreapp2.1\MLapp.pdb
+C:\Users\dkumar\Documents\ML Project\MLapp\obj\Debug\netcoreapp2.1\MLapp.dll
+C:\Users\dkumar\Documents\ML Project\MLapp\obj\Debug\netcoreapp2.1\MLapp.pdb
